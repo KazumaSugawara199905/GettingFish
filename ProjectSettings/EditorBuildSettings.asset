@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TitleScene.unity
+    guid: ba12e8da9608e564f85869b38703bd28
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 0bbfde1adf02cf6449e24692ec75c425
+  - enabled: 1
+    path: Assets/Scenes/ShopScene.unity
+    guid: 2246e74bbccddb942beae88a46421cdd
+  - enabled: 1
+    path: Assets/Scenes/EquipmentBuyScene.unity
+    guid: 9de30b65adac5c9488d008f88209e9eb
+  - enabled: 1
+    path: Assets/Scenes/AccessoryBuyScene.unity
+    guid: a15f10dd419f16b46ab06ceeca0fa167
+  - enabled: 1
+    path: Assets/Scenes/FishSellScene.unity
+    guid: 299c7f10bc859264690fa8261af183a0
+  - enabled: 1
+    path: Assets/Scenes/EquipmentSetUpScene.unity
+    guid: 11badaadae81ee942bc2f851104e9065
+  - enabled: 1
+    path: Assets/Scenes/PictureBook.unity
+    guid: 882bd87843d48064ca045ddda593af73
+  - enabled: 1
+    path: Assets/Scenes/StageSelectScene.unity
+    guid: 14968a4f36fbef7418ea62d5ecf48f52
+  - enabled: 1
+    path: Assets/Scenes/ResultScene.unity
+    guid: bf16e7d72ed54914ebb67d316b504479
+  - enabled: 1
+    path: Assets/Scenes/Game1Scene.unity
+    guid: ae21c18eee02f934596ac370a90c1e32
+  - enabled: 1
+    path: Assets/Scenes/Game2Scene.unity
+    guid: 7dc0b288cc19af8458eee0df65d16425
+  - enabled: 1
+    path: Assets/Scenes/Game3Scene.unity
+    guid: 94c11c7b7b4c16541bb613f285aaa591
+  - enabled: 1
+    path: Assets/Scenes/Description.unity
+    guid: d718d73b9fd58cd469c2a4ed569b4808
+  m_configObjects: {}

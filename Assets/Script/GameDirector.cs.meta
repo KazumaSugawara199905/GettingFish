@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3162408348cebf34ab5e50ce21d54106
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fishS_: {fileID: 8267784348156936922, guid: 551170a88a92b104da95b5dcf7026e00,
+      type: 3}
+  - fishM_: {fileID: 1602542851179036133, guid: cbfc82ef3d85f8a47a9b172ce2c96614,
+      type: 3}
+  - fishL_: {fileID: 4246450254773231933, guid: 4351d5fba0db90644b0168032f25e061,
+      type: 3}
+  - fishR_: {fileID: 37420595829152714, guid: 71edf043fac493f46918c39d3281cb0a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
